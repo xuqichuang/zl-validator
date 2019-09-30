@@ -1,0 +1,20 @@
+{
+  "name": "zl-validator",
+  "description": "常用js校验器",
+  "version": "0.0.1",
+  "main": "zl-validator.js",
+  "author": "徐其闯 <qichuan.xu@ly.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuqichuang/zl-validator.git"
+  },
+  "dependencies": {
+    "validator": "^11.1.0"
+  },
+  "keywords": [
+    "validator",
+    "js"
+  ]
+}
